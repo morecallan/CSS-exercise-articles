@@ -1,19 +1,54 @@
 section article:nth-of-type(1) {
     background-color:royalblue;
+    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-size: 15px;
+    color: white;
+    line-height: 20px;
+    padding: 20px;
+    border: 3px solid darkgray;
+    border-radius: 15px;
 }
 
 section article:nth-of-type(2) {
     background-color: crimson;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    font-size: 14px;
+    color: orange;
+    line-height: 200%;
+    padding: 30px;
+    border: 9px dashed orange;
+    border-radius: 4px;
 }
 
 section article:nth-of-type(3) {
     background-color: forestgreen;
+    font-family: "Copperplate Light", "Copperplate Gothic Light", serif;
+    font-size: 13px;
+    color: moccasin;
+    line-height: 18px;
+    padding: 5px;
+    border: 2px dotted peru;
+    border-radius: 15px;
 }
 
 section article:nth-of-type(4) {
     background-color: purple;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 12px;
+    color: paleturquoise;
+    line-height: 12px;
+    padding: 90px;
+    border: 20px solid skyblue;
+    border-radius: 100%;
 }
 
 section article:nth-of-type(5) {
     background-color: orange;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 11px;
+    color: black;
+    line-height: 31px;
+    padding: 45px;
+    border: 10px groove gray;
+    border-radius: 25%;
 }
