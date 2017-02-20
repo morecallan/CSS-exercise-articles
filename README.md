@@ -18,13 +18,15 @@
 ![Articles Screenshot](https://raw.githubusercontent.com/morecallan/CSS-exercise-articles/master/screenshots/Article.png)
 
 
-### How to run:
+### How to run (Node must be installed on your machine):
 ```
+git clone https://github.com/morecallan/CSS-exercise-articles.git
+cd CSS-exercise-articles
+npm install http-server -g
 http-server -p 8080
-
 ```
 
-This will show at:
+This will show in your browser at:
 `http://localhost:8080`
 
 ### Contributors:
